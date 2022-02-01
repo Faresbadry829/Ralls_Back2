@@ -1,4 +1,4 @@
-FROM Rallsthon/Ralls_thon:alpine
+FROM Rolixthon/Rolix_thon:alpine
 
 #clonning repo 
 RUN git clone https://github.com/RallsTeam/Ralls_thon
