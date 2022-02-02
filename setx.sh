@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "
-          Rolixthon
+          Rolix thon
 
         𓍹 Visit @rolixXx1 for help 𓍻
 "
