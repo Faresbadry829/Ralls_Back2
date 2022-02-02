@@ -1,9 +1,9 @@
 #!/bin/bash
 
 echo "
-          Rallsthon
+          Rolixthon
 
-        𓍹 Visit @Rallsthon for help 𓍻
+        𓍹 Visit @rolixXx1 for help 𓍻
 "
 
 python3 -m userbot
