@@ -1,7 +1,7 @@
 {
-  "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝐑𝐀𝐈𝐈𝐒",
-  "description": "⿻ سورس ريس ثـون ™ افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬────────────────────𝙎𝙊𝙐𝙍𝘾𝞝_𝐑𝐀𝐈𝐈𝐒 : @RallsThon",
-  "logo": "https://telegra.ph/file/cc481a0210a45b61c3e63.jpg",
+  "name": "𝗦𝗢𝗨𝗥𝗖𝗘 𝙍𝙊𝙇𝙄𝙓",
+  "description": "⿻ سورس  روليكس ™ افضل سورسات تيليثون ↬اوامر مامطروقه↬ معرب بالكامل ↬ اضافات جديده ↬ تحديثات متواصله ↬ اكتشفها بنفسك ↬────────────────────𝗦𝗢𝗨𝗥𝗖𝗘 𝙍𝙊𝙇𝙄𝙓 : @rolixXx1",
+  "logo": "https://telegra.ph/file/886a14cb392a7fd6f4ee5.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -41,7 +41,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "رابـط صورة تليكـراف - لتغيـرها ",
-      "value": "https://telegra.ph/file/cc481a0210a45b61c3e63.jpg",
+      "value": "https://telegra.ph/file/886a14cb392a7fd6f4ee5.jpg",
       "required": false
     },
     "PRIVATE_GROUP_ID": {
@@ -71,13 +71,13 @@
       "required": false
     },
     "TZ": {
-      "description": "منطقتك - عوفها ",
-      "value": "Asia/Baghdad",
+      "description": "بلدك - ومكنها ",
+      "value": "Africa/Cairo",
       "required": false    
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "Ralls ",
+      "value": "Rolix ",
       "required": false
     }
   },
