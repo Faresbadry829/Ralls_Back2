@@ -1,4 +1,4 @@
-FROM RolixXx1/Rolix_thon:alpine
+FROM RolixXx1/@YY_YPY:alpine
 
 #clonning repo 
 RUN git clone https://github.com/Faresbadry829/Ralls_thon
