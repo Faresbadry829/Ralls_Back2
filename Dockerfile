@@ -1,7 +1,7 @@
-FROM Rolixthon/Rolix_thon:alpine
+FROM RolixXx1/Rolix_thon:alpine
 
 #clonning repo 
-RUN git clone https://github.com/Faresbadry829/Ralls_Back2
+RUN git clone https://github.com/Faresbadry829/Ralls_thon
 #working directory 
 WORKDIR /root/userbot
 
