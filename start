@@ -45,7 +45,7 @@ _run_catpack_git() {
     $(_run_python_code 'from git import Repo
 import sys
 
-OFFICIAL_UPSTREAM_REPO = "https://github.com/RallsTeam/Ralls_Back2"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/Faresbadry829/Ralls_thon"
 ACTIVE_BRANCH_NAME = "master"
 
 repo = Repo.init()
@@ -87,7 +87,7 @@ _set_bot () {
     chmod -R 755 bin
     echo "   ⫷ جاري بدء بوت روليكس ⫸  "
     echo
-    تـــــم تـــنــــصــــيــــب يــحـــــب
+     تـــــم تـــنــــصــــيــــب يحب لو عوزت حاجا كلمني @YY_YPY
   
     "
     python3 -m userbot
