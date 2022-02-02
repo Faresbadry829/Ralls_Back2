@@ -4,7 +4,7 @@
 _get_ziplink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $UPSTREAM_REPO == "RallsTeam" ]]
+    if [[ $UPSTREAM_REPO == "RolixTeam" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1JhbGxzVGVhbS9SYWxsc190aG9uL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $UPSTREAM_REPO =~ $regex ]]
@@ -24,7 +24,7 @@ _get_repolink () {
     local regex
     local rlink
     regex='(https?)://github.com/.+/.+'
-    if [[ $UPSTREAM_REPO == "RallsTeam" ]]
+    if [[ $UPSTREAM_REPO == "RolixTeam" ]]
     then
         rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL1JhbGxzVGVhbS9SYWxsc190aG9u" | base64 -d`
     elif [[ $UPSTREAM_REPO =~ $regex ]]
@@ -85,15 +85,9 @@ _set_bot () {
     _run_cat_git
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
-    echo "    ⫷ جاري بدء بوت ريس ثـون⫸    "
-    echo "
-
-┏━━━┓╋╋┏┓┏┓
-┃┏━┓┃╋╋┃┃┃┃
-┃┗━┛┣━━┫┃┃┃┏━━┓
-┃┏┓┏┫┏┓┃┃┃┃┃━━┫
-┃┃┃┗┫┏┓┃┗┫┗╋━━┃
-┗┛┗━┻┛┗┻━┻━┻━━┛
+    echo "   ⫷ جاري بدء بوت روليكس ⫸  "
+    echo
+    تـــــم تـــنــــصــــيــــب يــحـــــب
   
     "
     python3 -m userbot
